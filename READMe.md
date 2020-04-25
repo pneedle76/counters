@@ -31,3 +31,5 @@ The output will loop something like the following:
 ~~~
 There are 243 days, 11 hours, 40 minutes and 43 seconds until Christmas!
 ~~~
+
+An image built from this repository using the `podman build` command outlined above is available at quay.io/pneedle/christmas_counter-python-django:v1.0.
